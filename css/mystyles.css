@@ -1,0 +1,28 @@
+body {
+    background-color: #619bba;
+    font-family: Arial, sans-serif;
+    color: #333;
+    text-align: center;
+}
+
+h1 {
+    color: #2c3e50;
+}
+
+h2 {
+    color: #34495e;
+}
+
+img {
+    border-radius: 10px;
+    margin: 20px 0;
+}
+
+ol {
+    text-align: left;
+    display: inline-block;
+}
+
+iframe {
+    margin-top: 20px;
+}
